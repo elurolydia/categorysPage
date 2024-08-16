@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+}
+
+.app {
+  padding: 20px 100px 50px 100px;
+}
+
+.topNav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
