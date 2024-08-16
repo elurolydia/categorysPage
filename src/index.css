@@ -11,3 +11,37 @@
   justify-content: space-between;
   align-items: center;
 }
+
+.handles {
+  display: flex;
+  gap: 12px;
+}
+
+.call {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.middleNav {
+  display: flex;
+  align-items: center;
+  gap: 28px;
+}
+
+.searchField {
+  box-sizing: border-box;
+  width: 599px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  border: 1px solid #c4c4c4;
+  border-radius: 8px;
+  padding: 12px;
+  gap: 20px;
+}
+
+input {
+  border: none;
+  outline: none;
+}
